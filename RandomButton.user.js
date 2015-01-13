@@ -7,7 +7,7 @@
 // @version 1.1
 // @grant none
 // @require http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js
-// @updateURL https://github.com/Dato-/Random-Button/blob/master/Random%20Button%20Script
+// @updateURL https://github.com/Dato-/Random-Button/blob/master/RandomButton.user.js
 
 // ==/UserScript==
 (function() {
